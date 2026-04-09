@@ -39,7 +39,7 @@ export function Footer() {
             &copy; {new Date().getFullYear()} Student Conscious Club. All rights reserved.
           </p>
           <div className="text-sm text-muted-foreground mt-4 md:mt-0">
-            Designed for the Future.
+            Designed by Anuj Mishra
           </div>
         </div>
       </div>
