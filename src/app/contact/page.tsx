@@ -16,16 +16,16 @@ export default function ContactPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="space-y-2">
             <label className="text-sm font-medium">First Name</label>
-            <input className="w-full px-3 py-2 border rounded-md bg-background focus:outline-none focus:ring-2 focus:ring-primary" placeholder="Jane" />
+            <input className="w-full px-3 py-2 border rounded-md bg-background focus:outline-none focus:ring-2 focus:ring-primary" placeholder="Anuj" />
           </div>
           <div className="space-y-2">
             <label className="text-sm font-medium">Last Name</label>
-            <input className="w-full px-3 py-2 border rounded-md bg-background focus:outline-none focus:ring-2 focus:ring-primary" placeholder="Doe" />
+            <input className="w-full px-3 py-2 border rounded-md bg-background focus:outline-none focus:ring-2 focus:ring-primary" placeholder="Mishra" />
           </div>
         </div>
         <div className="space-y-2">
           <label className="text-sm font-medium">Email</label>
-          <input type="email" className="w-full px-3 py-2 border rounded-md bg-background focus:outline-none focus:ring-2 focus:ring-primary" placeholder="jane@example.com" />
+          <input type="email" className="w-full px-3 py-2 border rounded-md bg-background focus:outline-none focus:ring-2 focus:ring-primary" placeholder="anuj@example.com" />
         </div>
         <div className="space-y-2">
           <label className="text-sm font-medium">Message</label>
