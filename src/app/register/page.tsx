@@ -53,7 +53,7 @@ export default async function RegisterPage(props: Props) {
             <input
               className="w-full rounded-md px-4 py-2 bg-inherit border mb-2 focus:outline-none focus:ring-2 focus:ring-primary"
               name="full_name"
-              placeholder="John Doe"
+              placeholder="Anuj Mishra"
               required
             />
           </div>
